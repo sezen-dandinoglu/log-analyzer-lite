@@ -1,0 +1,12 @@
+ERROR message has found 3 times in the sample.log file.
+WARNING message has found 2 times in the sample.log file.
+INFO message has found 4 times in the sample.log file.
+ERROR message has found 3 times in the sample.log file.
+WARNING message has found 2 times in the sample.log file.
+INFO message has found 4 times in the sample.log file.
+ERROR message has found 3 times in the sample.log file.
+WARNING message has found 2 times in the sample.log file.
+INFO message has found 4 times in the sample.log file.
+ERROR message has found 3 times in the sample.log file.
+WARNING message has found 2 times in the sample.log file.
+INFO message has found 4 times in the sample.log file.
